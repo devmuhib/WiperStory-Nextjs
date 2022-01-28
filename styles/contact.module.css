@@ -1,0 +1,10 @@
+.contact {
+  height: 590px;
+  padding-top: 100px;
+  text-align: center;
+}
+
+.contact h5,
+.contact h6 {
+  color: rgb(4, 4, 48);
+}

@@ -1,0 +1,28 @@
+.form {
+  background: #efefef;
+  padding: 60px 30px;
+}
+
+.form select {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  padding: 10px 25px;
+  font-weight: 600;
+  color: rgb(4, 4, 48);
+  border: none;
+  outline: none;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.form button {
+  margin-top: 20px;
+  border: none;
+  background: rgb(4, 4, 48);
+  color: #fff;
+  padding: 10px 25px;
+  border-radius: 5px;
+  text-align: center;
+}

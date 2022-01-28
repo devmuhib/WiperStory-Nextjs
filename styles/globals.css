@@ -1,0 +1,42 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: unset;
+  text-decoration: none;
+}
+
+button a {
+  text-decoration: none;
+  color: inherit;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+th {
+  padding: 10px 5px;
+}
+
+tbody th,
+tbody td {
+  text-align: center;
+}
+
+tbody tr {
+  border-bottom: 2px solid transparent;
+}
+
+tbody tr:hover {
+  border-bottom: 2px solid rgb(4, 4, 48);
+}
+
+tbody tr:nth-of-type(even) {
+  background-color: #efefef;
+}

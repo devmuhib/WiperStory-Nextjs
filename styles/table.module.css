@@ -1,0 +1,15 @@
+.tableHeader {
+  background: rgb(4, 4, 48);
+  color: #fff;
+}
+
+.customTable {
+  font-size: 1;
+  /* font-family: "Noto Sans KR", sans-serif; */
+  width: 100%;
+  max-width: 1024px;
+  margin: 30px auto 50px auto;
+  border-collapse: collapse;
+  text-align: center;
+  box-shadow: 0 2px 2px #e6e6e6;
+}

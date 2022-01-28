@@ -1,0 +1,24 @@
+.footer {
+  background: rgb(4, 4, 48);
+  color: #fff;
+  width: 100%;
+  padding-top: 3rem;
+  padding-bottom: 2rem;
+  /* position: fixed;
+  bottom: 0; */
+  text-align: center;
+}
+
+.footer a {
+  color: #fff;
+  text-decoration: none;
+  margin-left: 15px;
+  cursor: pointer;
+}
+
+.footer p {
+  margin-top: 40px;
+  font-size: 0.9rem;
+  color: #fff;
+  opacity: 75%;
+}
